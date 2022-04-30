@@ -9,7 +9,7 @@
     --orange: #fdb96b;
     --purple: #9c27b0;
     --hsl: (14deg 93% 57%)
-  }
+}
 
 .hero {
     width: 100vw;
@@ -27,7 +27,7 @@
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: var(--blue);
-    }
+}
 
 .header h1 {
     display: inline-block;
@@ -54,14 +54,14 @@
 .p{
     vertical-align: text-top;
     text-decoration-color: black;
-    }
+}
   
 .about-me{
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: hsl(14deg 93% 57%);
     color: black;
     overflow: auto;
-  }
+}
 
 .float-left {
     float: left;
@@ -73,7 +73,7 @@
 }
 .alejandro p{
     float: right;
-    }
+}
 
 .alejandro-bio {
     padding: 35px;
@@ -92,12 +92,11 @@ div.a {
 .box{
     float: right;
     float: left;
-    }
+}
 
 .resume, .work{
     background-color: var(--purple); 
 }
-
 
 .footer {
     background-color: var(--blue);
@@ -111,4 +110,3 @@ div.a {
     font-size: 20px;
     display: inline-block;
 }
-
