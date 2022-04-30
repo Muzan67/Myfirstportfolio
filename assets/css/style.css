@@ -13,14 +13,10 @@
 
 .hero {
     width: 100vw;
-    margin-bottom: 25px;
+    margin-bottom: 00px;
     background-image: url("../images/food-image.jpg");
     background-size: cover;
     background-position: left;
-}
-
-.body{
-    background-color: var(--purple);
 }
 
 .header {
@@ -51,12 +47,7 @@
     margin-left: 25px;
 }
 
-.p{
-    vertical-align: text-top;
-    text-decoration-color: black;
-}
-  
-.about-me{
+.bio{
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: hsl(14deg 93% 57%);
     color: black;
@@ -78,7 +69,7 @@
 .alejandro-bio {
     padding: 35px;
     float: left;
-    width: 65%;
+    width: 70%;
 } 
 
 .text-right {
@@ -92,9 +83,9 @@ div.a {
 .box{
     float: right;
     float: left;
-}
+    }
 
-.resume, .work{
+.resume, .work, .about-me, .body{
     background-color: var(--purple); 
 }
 
