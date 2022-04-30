@@ -12,11 +12,11 @@
 }
 
 .hero {
-    width: 100vw;
+    width: 98.9vw;
     margin-bottom: 00px;
     background-image: url("../images/food-image.jpg");
     background-size: cover;
-    background-position: left;
+    background-position: center;
 }
 
 .header {
