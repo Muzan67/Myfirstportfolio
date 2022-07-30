@@ -1,17 +1,14 @@
-# 02 Advanced CSS: Portfolio
+# My First Portfolio
 
-## Description
-Please find the starting process of first rough draft of my Portfolio.
-I understand that we will build and make improvements on the Portfolio as we continue to progress in this course.
+Please find my Portfolio assignment.
 
-## Installation
-I reviewed and used as reference the previous class activities as well as going back to the zoom class for reinforecement when working on the
-challenge. It was fun, challenging, and many times frustrating building an HTML and CSS file from scratch. I could see how my HTML was coming to 
-life and using Chrome Developer Tools to see what was missing or where I can improve was a big help. 
+## Screenshot of My First Portfolio
 
-## Credits
-https://developer.chrome.com/docs/devtools/open/
-I used Chrome Developer Tools to troubleshoot as I was working to complete my HW.
+![Untitled3](https://user-images.githubusercontent.com/102841726/181996858-926cfc4f-bc9e-42aa-8530-bf4ca9413489.png)
 
-https://www.w3schools.com/
-I used w3schools to find examples of how I was approaching my HTML and CSS and how to deploy. 
+![Untitled4](https://user-images.githubusercontent.com/102841726/181996867-309aeb7e-7d71-4f3a-b5ad-5ece5aabe51d.png)
+
+## Technologies Used
+
+- HTML
+- CSS

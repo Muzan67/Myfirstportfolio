@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
-  </head>
+    <title>Professional Porfolio</title>
+</head>
+
   <body>
       <!--Header-->
   <div class="header">
@@ -11,80 +15,98 @@
     <div>
         <ul>
         <li>
-            <a href="#About Me">About Me</a>
+            <a href="#about-me">About Me</a>
         </li>
         <li>
-            <a href="#Work">Work</a>
-        </li>
-        <li>
-            <a href="#Resume">Resume</a>
+            <a href="#work">Work</a>
         </li>
         <li>  
-            <a href="#Contact Me">Contact Me</a>
+            <a href="#contact-me">Contact Me</a>
         </li>
         <li>  
     </div>
 </div>
-<!--Background Screen-->
-<div class="body">
-    <img src="./assets/images/food-image.jpg" class="hero" /> 
-</div>
+
+<img src="./assets/images/food-image.jpg" class="hero"></img>
+
 <!--About Me-->
 <section>
-    <div id="About Me" class="About Me">
-        <h2 class="about-me text center"> About Me </h2>
-        <article class="about-me">
-    </div>
-    <div>
+    <div id="about-me" class="about-me">
+        <h2 class="about-me"> About Me </h2>
         <article class="bio">
-        <img src="./assets/images/Bio Pic.jpg" class="bio-pic" /> 
+        <img src="./assets/images/Bio Pic.jpg" class="bio" /> 
         <div class="alejandro-bio text right">
-        <h3>
-        <p>I am a descendent of Mexican parents born and raised in NYC. 
-        I work at the Guggenheim Museum as the Director of Dining Operations. I am a graduate of the 
+        <h2>I am a descendent of Mexican parents, a born and raise native of NYC. 
+        Currently the Director of Dining Operations for the Guggenheim Museum. I am a graduate of the 
         French Culinary Institute and have been working in the restaurant industry for over 18 years.
-        Prior to entering the restaurant industry I was studying to become a computer technician. I started 
-        working in restaurants as a way to pay for my studies. When I did the transition from the Front of 
-        the House to the kitchen I quickly fell in love with cookinh. The rush as orders were coming in, the 
-        creativity and execution of a dish. The intricacies we place in each dish, composing and respecting 
-        the ingredients and using whats in season is an amazing feeling, and especially when a dish comes 
-        together. I am excited to return back to this journey of entering the tech industy, and start a new 
-        career as a web developer which will eventyally help me achieve my goal in a career with cloud computing.
-        </p>
-        </h3>
+        
+        I am excited to start this new journey on a career path as a web developer and grow within the 
+        tech industry and hopefully acheive my goal in a career with cloud computing.
+        </h2>
     </div>    
 </section>
-<!--Work-->
 <section>
-    <div id="Work" class="Work">
-        <h2 class="work"> Work </h2>
-        <img src= "assets/images/Horiseon.png" width="50%" height="25%" align="right"/>
-        <img src="assets/images/Runbuddy.png" width="50%" height="30%" /> 
-    </div>
-</section>
-<!--Resume-->
-<section>
-    <div id="Resume" class="Resume">
-        <h2 class="resume"> Resume </h2>
-        <article class="resume"></article>
-        <iframe src="./assets/images/Alejandro Cortez Resume.pdf" frameborder="0" scrolling="yes" width=100%" height="300" align="center"> </iframe>
-    </div>
-</section> 
-</div>      
+
+<!-- Work -->
+<section id="work">
+    <h2 class="work">Work</h2>
+  </section>
+
+<!-- Project section -->
+<section id="articles">
+
+<!-- Enclose each project article in anchor tag to deployed project -->
+    <a href="https://muzan67.github.io/Challenge-1/">
+      <!-- This first image will be big compared to the next project -->
+      <article class="big">
+    <!-- Background image of the project -->
+        <img src="./assets/images/Horiseon.png" style="float: left" alt="Horiseon" />
+    <!-- Title of project and technologies used -->
+        <div class="cardText">
+          <h3>01 HTML, CSS, and Git: Code Refactor</h3>
+          <p>
+            HTML/CSS
+          </p>
+        </div>
+    <!-- Dims the article and brightens when hovered -->
+        <div class="shade"></div>
+      </article>
+    </a>
+
+ <!-- Enclose each project article in anchor tag to deployed project -->
+    <a href="https://muzan67.github.io/APIWeather/">
+        <!-- Regular sized image compared to the Horiseon assignment application -->
+        <article class="regular">
+          <!-- Background image of the project -->
+          <img src="./assets/images/06-server-side-apis-homework-demo.png" style="float: right" alt="Weather Dashboard" />
+          <!-- Title of project and technologies used -->
+          <div class="cardText">
+            <h3>06 Server-Side APIs: Weather Dashboardr</h3>
+            <p>
+              HTML/CSS/JS
+            </p>
+          </div>
+          <!-- Dims the article and brightens when hovered -->
+          <div class="shade"></div>
+        </article>
+      </a>
+    </section>
+
 <!--Footer-->
 <div class="footer">
-    <h1>Contact Me<span class="Contact Me"></span></h1>
-    <div id="Contact Me" class="Contact Me"></div>
+    <h1>Contact Me<span class="contact-me"></span></h1>
+    <div id="contact-me" class="contact-me"></div>
 <footer>
-<div>       
-    <div><h2>Phone Number:<a href="Phone Number" target="_blank"> Phone Number</h2></a><div>
+    <div>       
+    <div><h2><p>Phone Number:<a href="Phone Number" target="_blank"> 212-867-5309</a></p></h2><div>
                 
-    <div><h2>Email:<a href="mailto: ac.tendo67@gmail.com" target="_blank"> ac.tendo67@gmail.com</h2></a><div>
+    <div><h2><p>Email:<a href="mailto: ac.tendo67@gmail.com" target="_blank"> ac.tendo67@gmail.com</a></p><div>
                
-    <div><h2>GitHub:<a href="https://github.com/Muzan67" target="_blank"> Muzan67</h2></a><div>
+    <div><h2><p>GitHub:<a href="https://github.com/Muzan67" target="_blank"> Muzan67</a></p><div>
                
-    <div><h2>Linkedin:<a href="https://www.linkedin.com/in/alejandro-cortez-41b97089/" target="_blank"> www.linkedin.com/in/alejandro-cortez-41b97089</h2></a><div>
-</div>
+    <div><h2><p>Linkedin:<a href="https://www.linkedin.com/in/alejandro-cortez-41b97089/" target="_blank"> Alejandro Cortez</a></p><div>
+    </div>
 </footer>
 
 </html>
+
