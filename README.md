@@ -1,10 +1,10 @@
-## My First Portfolio - Github Repository
+# My First Portfolio - Github Repository
 
 https://github.com/Muzan67/Myfirstportfolio
 
-## My First Portfolio
+# My First Portfolio
 
-# Description
+## Description
 
 My first Portfolio contains:
 
@@ -12,7 +12,7 @@ My first Portfolio contains:
 - Links to my deployed works
 - Contact Me - provides multiple methods of communication where people can get in contact with me.
 
-## Table of Contents
+# Table of Contents
 
 - Github Repository
 - Description
@@ -50,18 +50,18 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ```
 
-## Installation
+# Installation
 
 To install this application, clone the code into your terminal for the respective repository.
 
-## Usage
+# Usage
 
 1. Use the navigation bar to navigate through different sections of the portfolio webpage.
 2. Click on the various projects under "My Work" to navigate to their page.
 
-## Technologies Used
+# Technologies Used
 
-- HTML
+- HTML5
 - CSS
 
 ## Screenshot of My First Portfolio
