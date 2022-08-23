@@ -73,4 +73,4 @@ To install this application, clone the code into your terminal for the respectiv
 
 ## Screenshot of My First Portfolio
 
-![FireShot Capture 013 - Professional Porfolio - ](https://user-images.githubusercontent.com/102841726/186249437-3f047865-0734-4190-8b30-c5b6710c1fad.png)
+![FireShot Capture 015 - Professional Porfolio - ](https://user-images.githubusercontent.com/102841726/186250422-c329e192-eee8-4cab-8394-c35c96bb5d72.png)
