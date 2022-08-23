@@ -15,6 +15,7 @@
   --inner-bg-color: #cd8296;
 }
 
+.resume,
 .body {
   background-color: var(--orange);
 }
@@ -113,6 +114,7 @@ div.a {
 }
 
 .work,
+.resume,
 .about-me {
   background-color: var(--purple);
 }
@@ -208,6 +210,16 @@ div.a {
   min-width: 400px;
   float: right;
   flex-wrap: wrap;
+}
+
+/* Description of Github Repository sizes to be REGULAR size*/
+.description {
+  height: 525px;
+  width: 400px;
+  min-width: 400px;
+  float: right;
+  flex-wrap: wrap;
+  background-color: var(--inner-bg-color);
 }
 
 /* Footer */
