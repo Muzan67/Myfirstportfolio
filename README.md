@@ -68,9 +68,9 @@ To install this application, clone the code into your terminal for the respectiv
 
 - HTML5
 - CSS
+- Font Awesome
+- Cloud Flare
 
 ## Screenshot of My First Portfolio
 
-![Untitled3](https://user-images.githubusercontent.com/102841726/181996858-926cfc4f-bc9e-42aa-8530-bf4ca9413489.png)
-
-![Untitled](https://user-images.githubusercontent.com/102841726/185279978-f3133311-ceed-476a-9dad-3051e0d4669d.png)
+![Alejandro Cortez Professional Porfolio](https://user-images.githubusercontent.com/102841726/186241775-9791b768-15bf-4e42-ab3f-1a2362f42909.jpg)
